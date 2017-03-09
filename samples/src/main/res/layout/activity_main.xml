@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/iv_app_logo"
         android:layout_centerHorizontal="true"
-        android:text="面包猎人精选"
+        android:text="Mini Programs"
         android:textColor="@android:color/black"
         android:textSize="18sp"
         android:visibility="gone" />
