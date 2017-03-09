@@ -3,8 +3,8 @@
 A loading view supports on API 15 and above.
 
 ##Samples
-
-![demo](./demo.gif)
+WeChat Mini Programs UI Demo:
+<br><div><img src='./demo.gif' width='25%' height='25%'/></div>
 
 ##Usage
 
