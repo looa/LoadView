@@ -1,0 +1,17 @@
+<resources>
+
+    <!--LoadView Attributes-->
+    <declare-styleable name="LoadView">
+        <attr name="normal_color" format="color" />
+        <attr name="selected_color" format="color" />
+        <attr name="distance" format="dimension" />
+        <attr name="radius" format="dimension" />
+        <attr name="count" format="integer" />
+        <attr name="gravity">
+            <enum name="center" value="0" />
+            <enum name="center_vertical" value="-1" />
+            <enum name="center_horizontal" value="1" />
+        </attr>
+    </declare-styleable>
+
+</resources>
